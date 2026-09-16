@@ -1,4 +1,4 @@
 # Malvin-Lusoke
 Personal Portfolio
-**About Me**
-**Past Projects**
+## **About Me**
+## **Past Projects**
